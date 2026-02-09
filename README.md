@@ -31,7 +31,7 @@ This project measures electrical parameters such as Voltage, Current, Power, and
 ### Circuit Diagram (Schematic)
 Below is the wiring diagram illustrating the connections between the ESP32, sensors, and display.
 
-![Smart kWh Meter Wiring Schematic](Tool-Design/Schematic_Smart-kWh-Meter.png)
+![Smart kWh Meter Wiring Schematic](Schematics.png)
 
 *Ensure all high-voltage connections (AC Mains) are insulated properly and handled with extreme caution.*
 
